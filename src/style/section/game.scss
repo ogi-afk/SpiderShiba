@@ -1,0 +1,73 @@
+.game {
+  background-color: #101932;
+  padding-top: 70px;
+  padding-bottom: 75px;
+
+  &__wrap {
+    background: #071022;
+    border-radius: 30px;
+    padding: 10px 10px;
+    margin-top: 50px;
+
+    @include media-from(1280) {
+      display: flex;
+      padding: 20px 30px;
+      gap: 41px;
+    }
+
+    @include media-from(1920) {
+      display: flex;
+      padding: 36px 50px;
+      gap: 41px;
+    }
+  }
+
+  &__foto {
+    margin-bottom: 30px;
+  }
+
+  &__text {
+    margin-top: 10px;
+  }
+
+  &__list {
+    :not(:last-child) {
+      margin-bottom: 20px;
+    }
+    margin-top: 30px;
+
+    @include media-from(768) {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      align-items: start;
+      gap: 20px;
+    }
+  }
+
+  &__card {
+    background-color: #ff9429;
+    border-radius: 30px;
+    padding: 20px 10px 50px 10px;
+    text-align: center;
+
+    &--blue {
+      background-color: #067ccb;
+    }
+
+    @include media-from(768) {
+      max-height: 450px;
+    }
+
+    @include media-from(1920) {
+      display: flex;
+      max-height: 231px;
+      text-align: start;
+      gap: 30px;
+    }
+  }
+
+  &__icon {
+    max-width: 134px;
+    max-height: 140px;
+  }
+}

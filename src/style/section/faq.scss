@@ -1,0 +1,53 @@
+.faq {
+  background-color: #101932;
+  padding-top: 70px;
+  padding-bottom: 70px;
+
+  @include media-from(1920) {
+    padding-bottom: 150px;
+  }
+
+  &__list {
+    margin-top: 50px;
+  }
+
+  &__card {
+    background-color: #384d70;
+    border-radius: 15px;
+    padding: 18px 93px 19px 18px;
+    position: relative;
+    max-width: 331px;
+    height: 75px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+
+    &:not(:last-child) {
+      margin-bottom: 15px;
+    }
+
+    &:before {
+      content: "";
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      background-image: url("../img/arrow.svg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 35px;
+      height: 35px;
+    }
+    @include media-from(991) {
+      max-width: 600px;
+      padding-left: 35px;
+    }
+
+    @include media-from(1440) {
+      max-width: 900px;
+    }
+
+    @include media-from(1920) {
+      max-width: 1036px;
+    }
+  }
+}

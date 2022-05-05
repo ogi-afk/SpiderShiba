@@ -1,0 +1,114 @@
+.roadmap {
+  background-color: #101932;
+  padding-top: 70px;
+
+  @include media-from(991) {
+    padding-bottom: 130px;
+  }
+  &__title {
+    margin-bottom: 50px;
+  }
+
+  &__list {
+    counter-reset: section;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  &__card {
+    background: rgba(56, 77, 112, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 30px;
+    color: $color-white;
+    opacity: 0.5;
+    padding: 35px 35px 50px 35px;
+    width: 320px;
+
+    &:not(:first-child, :nth-child(2)) {
+      display: none;
+
+      @include media-from(991) {
+        display: flex;
+      }
+    }
+
+    &::before {
+      counter-increment: section;
+      content: "" counter(section);
+      font-size: 65px;
+      line-height: 78px;
+      font-weight: 900;
+      color: $color-white;
+      background-color: #384d70;
+      opacity: 0.2;
+      border-radius: 30px;
+      padding: 10px 32px;
+
+      @include media-from(1920) {
+        padding: 34px 53px;
+      }
+    }
+
+    @include media-from(991) {
+      width: 600px;
+      gap: 60px;
+      display: flex;
+      align-items: flex-start;
+      max-width: none;
+
+      &:nth-child(odd) {
+        align-self: flex-start;
+      }
+      &:nth-child(even) {
+        align-self: flex-end;
+      }
+    }
+
+    @include media-from(1920) {
+      width: 792px;
+      padding: 35px 148px 35px 30px;
+    }
+  }
+
+  &__subtitle {
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+
+  &__point {
+    position: relative;
+    &::before {
+      content: "";
+      display: block;
+      width: 10px;
+      height: 10px;
+      background-color: $color-white;
+      border-radius: 50%;
+      position: absolute;
+      top: 7px;
+      left: 0;
+    }
+  }
+
+  &__text {
+    margin-left: 12px;
+    font-size: 18px;
+    line-height: 25px;
+
+    @include media-from(1440) {
+      font-size: 25px;
+      line-height: 30px;
+    }
+  }
+
+  &__img {
+    margin-top: 77px;
+    width: 100%;
+
+    @include media-from(991) {
+      display: none;
+    }
+  }
+}

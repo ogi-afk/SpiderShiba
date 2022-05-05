@@ -1,0 +1,12 @@
+.navigation {
+  font-size: 17px;
+  line-height: 20px;
+  color: white;
+  margin: auto auto;
+
+  &__list {
+    display: flex;
+
+    gap: 34px;
+  }
+}
