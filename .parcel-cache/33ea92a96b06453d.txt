@@ -1,6 +1,6 @@
-4514
+4516
 47C:\edu\2022\SpiderShiba\node_modules\source-map132959634413361836 1
-36C:\edu\2022\SpiderShiba\package.json132959638022729799 0
+36C:\edu\2022\SpiderShiba\package.json132962459069464376 0
 89C:\edu\2022\SpiderShiba\node_modules\@parcel\runtime-js\lib\helpers\worker\wasm-loader.js132951040131630000 0
 72C:\edu\2022\SpiderShiba\node_modules\css-tree\lib\common\adopt-buffer.js132951041539790000 0
 57C:\edu\2022\SpiderShiba\node_modules\@parcel\packager-raw132959634407836334 1
@@ -39,13 +39,13 @@
 41C:\edu\2022\SpiderShiba\src\img\arrow.svg132961676014867908 0
 82C:\edu\2022\SpiderShiba\node_modules\css-tree\lib\syntax\node\AttributeSelector.js132951041539790000 0
 49C:\edu\2022\SpiderShiba\src\img\footer\icon-3.png132961685004380009 0
-28C:\edu\2022\SpiderShiba\dist132962431113173940 1
+28C:\edu\2022\SpiderShiba\dist132962470206572923 1
 118C:\edu\2022\SpiderShiba\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\foo.js132951041550870000 0
 52C:\edu\2022\SpiderShiba\src\style\helpers\index.scss132950868100101160 0
 63C:\edu\2022\SpiderShiba\node_modules\htmlnano\node_modules\.bin132959634436679002 1
 52C:\edu\2022\SpiderShiba\src\style\layout\footer.scss132961718486988691 0
 62C:\edu\2022\SpiderShiba\node_modules\svgo\plugins\prefixIds.js132959638020665327 0
-34C:\edu\2022\SpiderShiba\.gitignore132959620957959086 0
+34C:\edu\2022\SpiderShiba\.gitignore132962434721129881 0
 45C:\edu\2022\SpiderShiba\node_modules\get-port132959634406240599 1
 52C:\edu\2022\SpiderShiba\node_modules\yaml\index.d.ts132951041762450000 0
 36C:\edu\2022\SpiderShiba\node_modules132959638022839513 1
@@ -77,12 +77,12 @@
 56C:\edu\2022\SpiderShiba\src\style\helpers\normalize.scss132952186543295054 0
 60C:\edu\2022\SpiderShiba\node_modules\@parcel\fs\src\index.js132951039374680000 0
 81C:\edu\2022\SpiderShiba\node_modules\caniuse-lite\data\features\css3-boxsizing.js132959634097610000 0
-38C:\edu\2022\SpiderShiba\src\index.html132962429077304653 0
+38C:\edu\2022\SpiderShiba\src\index.html132962470419397163 0
 67C:\edu\2022\SpiderShiba\node_modules\css-what\lib\commonjs\types.js132951041702360000 0
 71C:\edu\2022\SpiderShiba\node_modules\xxhash-wasm\umd\xxhash-wasm.js.map132951039584080000 0
 57C:\edu\2022\SpiderShiba\node_modules\msgpackr\SECURITY.md132951039427260000 0
 68C:\edu\2022\SpiderShiba\node_modules\caniuse-lite\data\regions\YE.js132959634097610000 0
-52C:\edu\2022\SpiderShiba\src\style\section\token.scss132961659968925556 0
+52C:\edu\2022\SpiderShiba\src\style\section\token.scss132962470593246938 0
 92C:\edu\2022\SpiderShiba\node_modules\@parcel\watcher\prebuilds\linux-x64\node.napi.musl.node132951039375960000 0
 121C:\edu\2022\SpiderShiba\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module-fallback\main.js132951041550870000 0
 56C:\edu\2022\SpiderShiba\node_modules\ordered-binary\dist132959634414608481 1
@@ -195,6 +195,8 @@
 107C:\edu\2022\SpiderShiba\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-multiple132951039751370000 0
 52C:\edu\2022\SpiderShiba\src\style\layout\header.scss132962427412893085 0
 51C:\edu\2022\SpiderShiba\src\style\layout\index.scss132959871311176394 0
+48C:\edu\2022\SpiderShiba\src\img\token\Vector.svg132961322779884531 0
+55C:\edu\2022\SpiderShiba\node_modules\mdn-data\README.md132951041725940000 0
 58C:\edu\2022\SpiderShiba\node_modules\posthtml\lib\index.js132951040316600000 0
 77C:\edu\2022\SpiderShiba\node_modules\caniuse-lite\data\features\css-shapes.js132959634097610000 0
 65C:\edu\2022\SpiderShiba\node_modules\@parcel\transformer-json\src132959634416244035 1
@@ -263,7 +265,7 @@
 48C:\edu\2022\SpiderShiba\dist\icon-3.45b6747c.png132962424879169203 0
 36C:\edu\2022\SpiderShiba\src\img\team132961437130496288 1
 63C:\edu\2022\SpiderShiba\node_modules\node-addon-api\except.gypi132951039381820000 0
-37C:\edu\2022\SpiderShiba\src\img\token132961594916779447 1
+37C:\edu\2022\SpiderShiba\src\img\token132962469370194124 1
 68C:\edu\2022\SpiderShiba\node_modules\caniuse-lite\data\regions\AD.js132959634097610000 0
 59C:\edu\2022\SpiderShiba\node_modules\@lezer\lr\package.json132951039541870000 0
 57C:\edu\2022\SpiderShiba\node_modules\terser\lib\output.js132959638020635414 0
@@ -425,7 +427,7 @@
 78C:\edu\2022\SpiderShiba\node_modules\entities\lib\generated\decode-data-xml.js132951041749600000 0
 75C:\edu\2022\SpiderShiba\node_modules\caniuse-lite\data\features\download.js132959634097610000 0
 66C:\edu\2022\SpiderShiba\node_modules\css-select\lib\procedure.d.ts132951041510330000 0
-39C:\edu\2022\SpiderShiba\dist\index.html132962429078769077 0
+39C:\edu\2022\SpiderShiba\dist\index.html132962469987585104 0
 49C:\edu\2022\SpiderShiba\src\img\footer\icon-5.svg132961685979921944 0
 53C:\edu\2022\SpiderShiba\node_modules\globals\index.js132951040325820000 0
 57C:\edu\2022\SpiderShiba\node_modules\nullthrows\README.md132951039518360000 0
@@ -958,8 +960,8 @@
 64C:\edu\2022\SpiderShiba\node_modules\yaml\browser\types\pairs.js132951041762450000 0
 68C:\edu\2022\SpiderShiba\node_modules\webidl-conversions\lib\index.js132958089979420000 0
 61C:\edu\2022\SpiderShiba\node_modules\@parcel\watcher\src\unix132959634433800734 1
-68C:\edu\2022\SpiderShiba\node_modules\caniuse-lite\data\regions\GG.js132959634097610000 0
 54C:\edu\2022\SpiderShiba\node_modules\semver\bin\semver132959638018600878 0
+68C:\edu\2022\SpiderShiba\node_modules\caniuse-lite\data\regions\GG.js132959634097610000 0
 64C:\edu\2022\SpiderShiba\node_modules\@parcel\css\node\index.d.ts132959633618110000 0
 77C:\edu\2022\SpiderShiba\node_modules\yaml\browser\dist\PlainValue-b8036b75.js132951041762450000 0
 73C:\edu\2022\SpiderShiba\node_modules\yaml\browser\dist\Schema-e94716c8.js132951041762450000 0
@@ -1978,7 +1980,6 @@
 59C:\edu\2022\SpiderShiba\node_modules\msgpackr\dist\index.js132951039427260000 0
 49C:\edu\2022\SpiderShiba\node_modules\mdn-data\api132959634414359072 1
 49C:\edu\2022\SpiderShiba\node_modules\mdn-data\css132959634414418903 1
-55C:\edu\2022\SpiderShiba\node_modules\mdn-data\README.md132951041725940000 0
 64C:\edu\2022\SpiderShiba\node_modules\css-tree\lib\utils\clone.js132951041539790000 0
 59C:\edu\2022\SpiderShiba\node_modules\mdn-data\l10n\index.js132951041725940000 0
 63C:\edu\2022\SpiderShiba\node_modules\mdn-data\css\at-rules.json132951041725940000 0
@@ -4503,13 +4504,14 @@
 48C:\edu\2022\SpiderShiba\dist\icon-5.11940a48.png132962424878923024 0
 48C:\edu\2022\SpiderShiba\dist\icon-5.692c75af.svg132962424879378628 0
 48C:\edu\2022\SpiderShiba\dist\icon-6.059f57ce.png132962424879179164 0
-47C:\edu\2022\SpiderShiba\dist\index.08963856.css132962431113094541 0
-51C:\edu\2022\SpiderShiba\dist\index.08963856.css.map132962431113104138 0
+47C:\edu\2022\SpiderShiba\dist\index.08963856.css132962470206533032 0
+51C:\edu\2022\SpiderShiba\dist\index.08963856.css.map132962470206543649 0
 45C:\edu\2022\SpiderShiba\dist\map.e2067776.png132962424879288879 0
 59C:\edu\2022\SpiderShiba\dist\spidershiba-img-2.037bc3bd.png132962424879019608 0
 57C:\edu\2022\SpiderShiba\dist\spidershiba-img.ca079557.png132959935922145268 0
 52C:\edu\2022\SpiderShiba\dist\SpiderShiba.59712999.js132962424879089410 0
 45C:\edu\2022\SpiderShiba\dist\Veb.6ac939f1.svg132962424878299437 0
 48C:\edu\2022\SpiderShiba\dist\vector.b5204210.svg132962424879368665 0
+48C:\edu\2022\SpiderShiba\dist\vector.c7d073e1.svg132962469688146344 0
 48C:\edu\2022\SpiderShiba\dist\vector.e5062387.png132961324460276938 0
 49C:\edu\2022\SpiderShiba\dist\warning.16606884.png132962424879169203 0

@@ -149,4 +149,13 @@
       display: block;
     }
   }
+
+  &__img {
+    margin-top: 77px;
+    width: 100%;
+
+    @include media-from(991) {
+      display: none;
+    }
+  }
 }
